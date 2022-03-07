@@ -1,3 +1,23 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = '/'
+languageCode = 'zh-cn'
+title = 'Trans Memories'
+copyright = ""
+googleAnalytics = ""
+
+[menus]
+
+[author]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+archive = "archives"
+
+[params]
+
+
+[[params.social]]
+type = "github"
+name = "Github"
+url = "https://github.com"
+icon = "ri-github-fill"
