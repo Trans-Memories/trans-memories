@@ -1,8 +1,9 @@
-baseURL = '/'
+baseURL = 'http://example.com/'
 languageCode = 'zh-cn'
 title = 'Trans Memories'
 copyright = ""
 googleAnalytics = ""
+theme = "memory"
 
 [menus]
 
