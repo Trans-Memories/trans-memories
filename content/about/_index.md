@@ -29,4 +29,4 @@ toc:            false
 > 致谢
 * [Hugo](https://gohugo.io/)
 * [Hugo Theme MemE](https://github.com/reuixiy/hugo-theme-meme)
-* 以及所有为跨性别公益付出的人们
+* 所有为跨性别公益付出的人们
