@@ -332,6 +332,7 @@ uglyURLs = false
 
     ## 纪念日
     defaultMemoryPage = "/memory"
+    defaultImage = "images/default.png"
 
 
     ######################################
