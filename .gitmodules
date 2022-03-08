@@ -1,3 +1,6 @@
 [submodule "themes/memory"]
 	path = themes/memory
 	url = https://github.com/needhourger/memeory.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

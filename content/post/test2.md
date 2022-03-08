@@ -1,8 +1,8 @@
 ---
-title:          "{{ replace .Name "-" " " | title }}"
+title:          "Test2"
 subTitle:       ""
 description:    ""
-date:           {{ .Date }}
+date:           2021-03-07T19:03:54+08:00
 author:         ""
 image:          ""
 tags:           []
