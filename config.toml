@@ -9,18 +9,31 @@ theme = "memory"
     home = ["HTML","RSS","JSON"]
 
 [taxonomies]
-tag = "tags"
-category = "categories"
-archive = "archives"
+    tag = "tags"
+    category = "categories"
 
 [params]
-keyguard = ""
-SEOTitle = "hi"
-timeFormat = "Mon Jan 02 2006"
-description = "Hi there ~"
+    keyguard = ""
+    SEOTitle = "hi"
+    timeFormat = "Mon Jan 02 2006"
+    description = "Hi there ~"
+    defaultHeadImage = "image/head.jpg"
+    showToc = true
 
 [[params.social]]
-type = "github"
-name = "Github"
-url = "https://github.com"
-icon = "ri-github-fill"
+    type = "github"
+    name = "Github"
+    url = "https://github.com"
+    icon = "ri-github-fill"
+
+[[params.social]]
+    type = "twitter"
+    name = "twitter"
+    url = "https://twitter.com"
+    icon = "ri-twitter-fill"
+
+[[params.social]]
+    type = "discord"
+    name = "discord"
+    url = "https://discord.com"
+    icon = "ri-discord-fill"
