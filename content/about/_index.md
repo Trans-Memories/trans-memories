@@ -32,4 +32,4 @@ toc:            false
 * [Hugo Theme MemE](https://github.com/reuixiy/hugo-theme-meme)
 * 所有为跨性别公益付出的人们
 
-> _PS Oops！^-^站长自己走了的话谁来更新站长的离开？_
+> _PS Oops！^-^站长自己走了的话谁来谁来把站长挂在这里？_
