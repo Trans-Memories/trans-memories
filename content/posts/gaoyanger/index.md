@@ -5,8 +5,8 @@ description:    ""
 date:           2020-08-27T18:42:04+08:00
 author:         "cc"
 image:          ""
-tags:           []
-categories:     []
+tags:           [RIP]
+categories:     [Commemoration]
 weight:         0
 draft:          false
 toc:            false

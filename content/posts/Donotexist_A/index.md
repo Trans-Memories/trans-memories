@@ -5,8 +5,8 @@ description:    ""
 date:           2021-05-13T18:35:00+08:00
 author:         "cc"
 image:          ""
-tags:           []
-categories:     []
+tags:           [RIP]
+categories:     [Commemoration]
 weight:         0
 draft:          false
 toc:            false

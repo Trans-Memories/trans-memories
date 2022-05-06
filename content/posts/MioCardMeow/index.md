@@ -5,8 +5,8 @@ description:    ""
 date:           2022-01-31T16:46:48+08:00
 author:         "cc"
 image:          ""
-tags:           []
-categories:     []
+tags:           [RIP]
+categories:     [Commemoration]
 weight:         0
 draft:          false
 toc:            false
